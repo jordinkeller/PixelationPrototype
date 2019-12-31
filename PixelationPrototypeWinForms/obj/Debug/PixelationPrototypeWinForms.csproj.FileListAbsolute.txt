@@ -1,0 +1,16 @@
+C:\Users\jordi\source\repos\PixelationPrototypeWinForms\PixelationPrototypeWinForms\bin\Debug\PixelationPrototypeWinForms.exe.config
+C:\Users\jordi\source\repos\PixelationPrototypeWinForms\PixelationPrototypeWinForms\bin\Debug\PixelationPrototypeWinForms.exe
+C:\Users\jordi\source\repos\PixelationPrototypeWinForms\PixelationPrototypeWinForms\bin\Debug\PixelationPrototypeWinForms.pdb
+C:\Users\jordi\source\repos\PixelationPrototypeWinForms\PixelationPrototypeWinForms\obj\Debug\PixelationPrototypeWinForms.csprojAssemblyReference.cache
+C:\Users\jordi\source\repos\PixelationPrototypeWinForms\PixelationPrototypeWinForms\obj\Debug\PixelationPrototypeWinForms.Form1.resources
+C:\Users\jordi\source\repos\PixelationPrototypeWinForms\PixelationPrototypeWinForms\obj\Debug\PixelationPrototypeWinForms.Properties.Resources.resources
+C:\Users\jordi\source\repos\PixelationPrototypeWinForms\PixelationPrototypeWinForms\obj\Debug\PixelationPrototypeWinForms.csproj.GenerateResource.cache
+C:\Users\jordi\source\repos\PixelationPrototypeWinForms\PixelationPrototypeWinForms\obj\Debug\PixelationPrototypeWinForms.exe
+C:\Users\jordi\source\repos\PixelationPrototypeWinForms\PixelationPrototypeWinForms\obj\Debug\PixelationPrototypeWinForms.pdb
+C:\Users\jordi\source\repos\PixelationPrototypeWinForms\PixelationPrototypeWinForms\bin\Debug\AForge.dll
+C:\Users\jordi\source\repos\PixelationPrototypeWinForms\PixelationPrototypeWinForms\bin\Debug\AForge.Imaging.dll
+C:\Users\jordi\source\repos\PixelationPrototypeWinForms\PixelationPrototypeWinForms\bin\Debug\AForge.Math.dll
+C:\Users\jordi\source\repos\PixelationPrototypeWinForms\PixelationPrototypeWinForms\bin\Debug\AForge.xml
+C:\Users\jordi\source\repos\PixelationPrototypeWinForms\PixelationPrototypeWinForms\bin\Debug\AForge.Imaging.xml
+C:\Users\jordi\source\repos\PixelationPrototypeWinForms\PixelationPrototypeWinForms\bin\Debug\AForge.Math.xml
+C:\Users\jordi\source\repos\PixelationPrototypeWinForms\PixelationPrototypeWinForms\obj\Debug\PixelationPrototypeWinForms.csproj.CopyComplete
